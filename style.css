@@ -654,10 +654,6 @@ a {
     color: #575757!important;
 }
 
-.container {
-    max-width: 1000px;
-}
-
 .hero-bloc-text {
     font-size: 38px;
 }
@@ -723,7 +719,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #333333;
 }
 
 h4 {
@@ -775,7 +771,9 @@ h4 {
 }
 
 .tc-white {
+    color: #FFFFFF!important;
     text-align: center;
+    position: relative;
 }
 
 .btn-atomic-tangerine {
