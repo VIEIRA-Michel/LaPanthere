@@ -831,6 +831,26 @@ h4 {
     background-image: url("img/image-de-presentation.jpg");
 }
 
+.slogan {
+    width: 54%;
+    margin: auto;
+}
+
+.portfolio {
+    margin: auto;
+    width: 39%;
+}
+
+.citation {
+    font-size: 19px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.citation-author {
+    font-size: 19px;
+    font-weight: 300;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
