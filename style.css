@@ -750,6 +750,15 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.center-block.image-resize-mode {
+    width: 100px;
+    height: 100px;
+}
+.img-responsive.portfolio-thumb {
+    width: 270px;
+    height: 270px;
+}
+
 .portfolio-thumb {
     margin: auto auto 24px auto;
 }
@@ -993,8 +1002,8 @@ h4 {
         box-shadow: none;
     }
     .navbar-brand img {
-        max-height: 40px;
-        width: auto;
+        width: 217px;
+        height: 40px;
     }
     .nav-invert .navbar-header {
         float: none;
